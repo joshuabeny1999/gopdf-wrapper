@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/72nd/gopdf-wrapper/fonts"
+	"github.com/joshuabeny1999/gopdf-wrapper/fonts"
 	"github.com/signintech/gopdf"
 	"github.com/signintech/gopdf/fontmaker/core"
 )

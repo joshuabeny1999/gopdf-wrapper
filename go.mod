@@ -1,4 +1,4 @@
-module github.com/72nd/gopdf-wrapper
+module github.com/joshuabeny1999/gopdf-wrapper
 
 go 1.20
 
